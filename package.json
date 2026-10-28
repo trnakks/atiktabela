@@ -1,0 +1,32 @@
+{
+  "name": "atik-tabela-web",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build && node scripts/finalize-export.mjs && node scripts/verify-export.mjs",
+    "preview": "node scripts/preview.mjs",
+    "test:e2e": "playwright test",
+    "format": "prettier --write src tests scripts *.ts *.json *.md *.yml",
+    "typecheck": "tsc --noEmit",
+    "check": "npm run typecheck && npm run build",
+    "verify:live": "node scripts/verify-live.mjs"
+  },
+  "dependencies": {
+    "lucide-react": "^0.468.0",
+    "next": "^16.0.0",
+    "react": "^19.2.0",
+    "react-dom": "^19.2.0"
+  },
+  "devDependencies": {
+    "@playwright/test": "^1.64.1",
+    "@types/node": "^22.0.0",
+    "@types/react": "^19.0.0",
+    "@types/react-dom": "^19.0.0",
+    "prettier": "^3.9.10",
+    "typescript": "^5.9.0"
+  },
+  "engines": {
+    "node": "22.x"
+  }
+}

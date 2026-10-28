@@ -1,0 +1,92 @@
+[
+  {
+    "source": "https://www.atiktabela.com",
+    "target": "https://atiktabela.com",
+    "status": "301"
+  },
+  {
+    "source": "/tasarim-ornekleri/",
+    "target": "/referans/",
+    "status": "301"
+  },
+  {
+    "source": "/tasarim-ornekleri",
+    "target": "/referans/",
+    "status": "301"
+  },
+  {
+    "source": "/tabela-modelleri/",
+    "target": "/hizmetler/",
+    "status": "301"
+  },
+  {
+    "source": "/tabela-modelleri",
+    "target": "/hizmetler/",
+    "status": "301"
+  },
+  {
+    "source": "/hizmetler/kutu-harf/",
+    "target": "/hizmetler/#kutu-harf",
+    "status": "301"
+  },
+  {
+    "source": "/hizmetler/kutu-harf",
+    "target": "/hizmetler/#kutu-harf",
+    "status": "301"
+  },
+  {
+    "source": "/hizmetler/isikli-tabela/",
+    "target": "/hizmetler/#isikli-tabela",
+    "status": "301"
+  },
+  {
+    "source": "/hizmetler/isikli-tabela",
+    "target": "/hizmetler/#isikli-tabela",
+    "status": "301"
+  },
+  {
+    "source": "/hizmetler/cephe-giydirme/",
+    "target": "/hizmetler/#cephe-giydirme",
+    "status": "301"
+  },
+  {
+    "source": "/hizmetler/cephe-giydirme",
+    "target": "/hizmetler/#cephe-giydirme",
+    "status": "301"
+  },
+  {
+    "source": "/hizmetler/totem-tabela/",
+    "target": "/hizmetler/#totem-tabela",
+    "status": "301"
+  },
+  {
+    "source": "/hizmetler/totem-tabela",
+    "target": "/hizmetler/#totem-tabela",
+    "status": "301"
+  },
+  {
+    "source": "/hizmetler/neon-tabela/",
+    "target": "/hizmetler/#neon-tabela",
+    "status": "301"
+  },
+  {
+    "source": "/hizmetler/neon-tabela",
+    "target": "/hizmetler/#neon-tabela",
+    "status": "301"
+  },
+  {
+    "source": "/hizmetler/yonlendirme/",
+    "target": "/hizmetler/#yonlendirme",
+    "status": "301"
+  },
+  {
+    "source": "/hizmetler/yonlendirme",
+    "target": "/hizmetler/#yonlendirme",
+    "status": "301"
+  },
+  {
+    "source": "/<*>",
+    "target": "/404.html",
+    "status": "404"
+  }
+]
