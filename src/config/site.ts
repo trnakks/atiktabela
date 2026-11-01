@@ -2,7 +2,7 @@ export const site = {
   name: 'ATİK TABELA',
   url: 'https://atiktabela.com',
   description:
-    'İstanbul’da tabela, reklam, cephe kaplama, dijital baskı, kesim ve matbaa çözümleri. 1985’ten bugüne ATİK TABELA.',
+    '1985’ten beri İstanbul’da tabela üretimi ve montajı. Işıklı tabela, kutu harf ve cephe uygulamaları için ATİK TABELA’dan teklif alın.',
   address: {
     streetAddress: 'Talatpaşa Mahallesi, 1047. Sokak No:19/B',
     district: 'Esenyurt',

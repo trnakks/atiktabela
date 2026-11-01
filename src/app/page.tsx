@@ -9,8 +9,8 @@ import { ExampleCard } from '@/components/example-gallery';
 import { site } from '@/config/site';
 
 export const metadata = pageMetadata(
-  'İstanbul Tabela, Reklam ve Baskı Çözümleri | ATİK TABELA',
-  'İstanbul Esenyurt’ta ışıklı tabela, kutu harf, cephe kaplama, dijital baskı, CNC ve lazer kesim, matbaa hizmetleri. ATİK TABELA’dan teklif alın.',
+  'İstanbul Tabela Üretimi ve Montajı | ATİK TABELA',
+  site.description,
   '/',
 );
 const featured = ['sahane-altin-harf', 'burgerslak-vitrin', 'ref-century21'].map((id) =>
@@ -40,11 +40,7 @@ export default function Home() {
         <div className="hero-copy">
           <Eyebrow>Tabela • Tasarım • Üretim</Eyebrow>
           <h1>
-            İlk bakışta
-            <br />
-            fark edilir.
-            <br />
-            <em>Akılda kalır.</em>
+            İşletmenize Özel Tabela Üretimi ve Montajı
           </h1>
           <p>
             Tabeladan cepheye, vitrin grafiğinden kurumsal baskıya. Markanızı doğru malzeme, özenli
